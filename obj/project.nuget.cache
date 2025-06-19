@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "vtircdRcbvQ93n4qOBhrJiBBteJRAdR4Jyj4M7GdfhXXs31YnYU3XR0bQks2A9+z5cSTzNIRdSS3x2hqHd5Y+A==",
+  "dgSpecHash": "vXOS8rti9VyouuLQGPVzA64eavvg213d6e685bZ1cTGkAWIWEzOr3W+txkjNPQZXlRxZLfUP03Rj7mR8V5xACg==",
   "success": true,
-  "projectFilePath": "D:\\TrabajoTwo\\Proyectocalculadora\\calculador\\calculador.csproj",
+  "projectFilePath": "D:\\b\\ProtoCalculadora\\Proyecto1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\b\\ProtoCalculadora\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
