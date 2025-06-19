@@ -1,7 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
+<<<<<<< HEAD
 namespace calculador.Pages;
+=======
+namespace Proyecto1.Pages;
+>>>>>>> 3160f5f (Hola dennis)
 
 public class PrivacyModel : PageModel
 {

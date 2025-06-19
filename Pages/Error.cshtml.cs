@@ -2,7 +2,11 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
+<<<<<<< HEAD
 namespace calculador.Pages;
+=======
+namespace Proyecto1.Pages;
+>>>>>>> 3160f5f (Hola dennis)
 
 [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
 [IgnoreAntiforgeryToken]

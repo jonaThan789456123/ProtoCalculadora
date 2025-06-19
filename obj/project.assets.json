@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TrabajoTwo\\Proyectocalculadora\\calculador\\calculador.csproj",
-      "projectName": "calculador",
-      "projectPath": "D:\\TrabajoTwo\\Proyectocalculadora\\calculador\\calculador.csproj",
+      "projectUniqueName": "D:\\b\\ProtoCalculadora\\Proyecto1.csproj",
+      "projectName": "Proyecto1",
+      "projectPath": "D:\\b\\ProtoCalculadora\\Proyecto1.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "D:\\TrabajoTwo\\Proyectocalculadora\\calculador\\obj\\",
+      "outputPath": "D:\\b\\ProtoCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -78,5 +78,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\b\\ProtoCalculadora\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

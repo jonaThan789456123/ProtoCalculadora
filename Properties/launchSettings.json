@@ -4,8 +4,13 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
+<<<<<<< HEAD
       "applicationUrl": "http://localhost:40399",
       "sslPort": 44304
+=======
+      "applicationUrl": "http://localhost:3047",
+      "sslPort": 44347
+>>>>>>> 3160f5f (Hola dennis)
     }
   },
   "profiles": {
@@ -13,7 +18,11 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
+<<<<<<< HEAD
       "applicationUrl": "http://localhost:5179",
+=======
+      "applicationUrl": "http://localhost:5107",
+>>>>>>> 3160f5f (Hola dennis)
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -22,7 +31,11 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
+<<<<<<< HEAD
       "applicationUrl": "https://localhost:7180;http://localhost:5179",
+=======
+      "applicationUrl": "https://localhost:7155;http://localhost:5107",
+>>>>>>> 3160f5f (Hola dennis)
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
